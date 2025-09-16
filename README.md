@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anup Kumar Yadav  
 
-🎓 Final-year **Computer Science Engineering** student (Jaipur National University)  
+🎓 Graduted(2025) **Computer Science Engineering** (Jaipur National University)  
 💻 Passionate about **Python, APIs, and Data-driven solutions**  
 📊 Exploring **Data Science, Backend Development, and Automation**  
 
@@ -22,6 +22,9 @@
 
 ## 🚀 Featured Projects  
 
+🔹 [**Binance Trading Bot**](https://github.com/Anup-001/binance-trading-bot)  
+Python | Binance Futures Testnet | Market & Limit Orders | Logging & Error Handling  
+
 🔹 [**Store Monitoring API**](https://github.com/Anup-001/Store-Monitoring-API)  
 Python + FastAPI | Uptime/Downtime monitoring | CSV Automation | Flexible queries  
 
@@ -30,22 +33,10 @@ MERN Stack | Streamlined school operations | Robust backend with Express/Node
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anup-001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anup-001&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-001&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>  
-
----
-
 ## 🌱 Currently Exploring  
 - **Machine Learning & AI** for real-world applications  
 - **Automation & Trading Bots**  
+- **Blockchain** and Web3 integrations  
 - Advanced **Data Science workflows**  
 
 ---
