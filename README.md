@@ -1,52 +1,61 @@
-# 👋 Hi, I’m Anup Kumar Yadav  
-
-🎓 Graduted(2025) **Computer Science Engineering** (Jaipur National University)  
-💻 Passionate about **Python, APIs, and Data-driven solutions**  
-📊 Exploring **Data Science, Backend Development, and Automation**  
+<!-- Banner (optional: replace with your own image later) -->
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/Anup-001">Anup Kumar Yadav</a></h1>
+<h3 align="center">Python Developer | Data Science Enthusiast | Web3 Explorer</h3>
 
 ---
 
-## 🔧 Tech Stack  
+## 👨‍💻 About Me  
+🎓 **Computer Science Engineering graduate** (Jaipur National University)  
+💻 Passionate about **Python, Blockchain, APIs, and data-driven solutions**  
+⚡ Exploring the intersection of **Data Science, Backend Systems, and Web3**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>  
 
 ---
 
 ## 🚀 Featured Projects  
 
 🔹 [**Binance Trading Bot**](https://github.com/Anup-001/binance-trading-bot)  
-Python | Binance Futures Testnet | Market & Limit Orders | Logging & Error Handling  
+💡 Python-based bot for Binance Futures Testnet — supports market & limit orders, with logging & error handling.  
 
 🔹 [**Store Monitoring API**](https://github.com/Anup-001/Store-Monitoring-API)  
-Python + FastAPI | Uptime/Downtime monitoring | CSV Automation | Flexible queries  
+📊 Python + FastAPI service to monitor restaurant uptime/downtime, with CSV automation & flexible queries.  
 
 🔹 [**School Management System**](https://github.com/Anup-001/School_Management_System)  
-MERN Stack | Streamlined school operations | Robust backend with Express/Node  
+🏫 MERN stack web app for managing schools, with role-based access and communication features.  
 
 ---
 
 ## 🌱 Currently Exploring  
-- **Machine Learning & AI** for real-world applications  
-- **Automation & Trading Bots**  
-- **Blockchain** and Web3 integrations  
-- Advanced **Data Science workflows**  
+- 📈 **Machine Learning & AI** for real-world applications  
+- ⚡ **Automation & Trading Bots**  
+- ⛓ **Blockchain** and Web3 integrations  
+- 🔬 Advanced **Data Science workflows**  
 
 ---
 
-## 📫 Connect With Me  
+## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anup-kumar-yadav-6a8b431b5/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Anup-001)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:anupkumaryadav.2606@gmail.com)  
+<p align="center">
+  <a href="mailto:anupkumaryadav.2606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/anup-kumar-yadav-6a8b431b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Anup-001"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>  
 
 ---
 
-⭐ *Always curious, always building — usually after a strong cup of coffee ☕.*  
+⭐ *Always curious, always building.*  
